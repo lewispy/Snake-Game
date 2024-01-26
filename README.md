@@ -1,3 +1,6 @@
+<p align="center"><img width=450 height=500 src="https://github.com/lewispy/Snake-Game/blob/main/game-view.png"></p>
+
+##
 # Snake Game: A Classic Reimagined
 
 Experience the excitement of the classic Snake Game in a modern Python simulation!
