@@ -34,5 +34,4 @@ while movement:
 		sb.game_over()
 		movement = False
 
-
 sc.exit_screen()
